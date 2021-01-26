@@ -1,5 +1,5 @@
 ### [English Version](#english)
-### [Version Français](#français)
+### [Version Française](#français)
 
 ## <a name="english"></a> *(English version)*
 
