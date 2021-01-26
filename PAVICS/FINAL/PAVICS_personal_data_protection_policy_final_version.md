@@ -1,4 +1,148 @@
-## *(Version française)*
+### [English Version](#english)
+### [Version Français](#français)
+
+## <a name="english"></a> *(English version)*
+
+**Privacy Policy**
+
+Welcome to *pavics.ouranos.ca*, a web site operated by Ouranos Inc.
+("OURANOS"). By browsing or using *pavics.ouranos.ca* and its content,
+including the data (collectively called the "Website"), you acknowledge
+that you have read and unreservedly agree to be bound by and comply with
+the following privacy policy (called "Privacy Policy"), which together
+with the Terms of use govern OURANOS's relationship with you in relation
+to this Website.
+
+OURANOS respects the privacy of your personal information and is
+committed to protecting it and using it solely for the purpose for which
+it was collected.
+
+**Application and Scope**
+
+When using *pavics.ouranos.ca*, you may provide us with personal
+information. The term "personal information" is defined as "any
+information which relates to a natural person and allows that person to
+be identified" (called "Information").
+
+This Privacy Policy governs the collection, usage and storage of
+Information obtained from users including (i) through JupyterLab or;
+(ii) contacting us by email. This Privacy Policy applies to all
+Information that may be collected by OURANOS through the Website.
+
+OURANOS reserves the right to change its Privacy Policy at any time
+without prior notification. Any changes become effective immediately
+upon being posted on the Website.
+
+**What Information we collect**
+
+Depending on your use of the Website, OURANOS may collect, hold and use
+the information that you knowingly choose to disclose and enter on any
+of the Website's forms or that you otherwise give to OURANOS, such as
+your name, your email address, your organization, your phone number, and
+your IP address.
+
+**Why we collect Information**
+
+The Information is collected and used notably for the following
+purposes:
+
+• Communicate with you after you contacted us;
+
+• Monitor the Website traffic;
+
+• Create an access account to the Website.
+
+The information is only used for the purpose that it was collected.
+
+**How Information it stored**
+
+Any Information collected is stored on servers located in Canada and
+owned by OURANOS.
+
+The Information is stored only for the time required to fulfill the
+purpose for which it was collected or as required by law. After such
+time, any Information provided will be deleted.
+
+**How Information is communicated**
+
+OURANOS never discloses any personal information that it may collect to
+anyone outside of OURANOS without the person's consent, except if
+required or permitted by law.
+
+Relevant personnel may access information, when it is required to
+fulfill the purpose for which the information was collected.
+
+OURANOS does not sell any available personal information to third
+parties. Any collected information is used exclusively in accordance
+with this Privacy Policy.
+
+**Security**
+
+All Information is stored on servers with high-security safeguards,
+protected against misuse and access by unauthorized individuals. OURANOS
+endeavours to maintain appropriate physical, procedural and technical
+security with respect to its office and information storage facilities.
+Any Information is only made available to individuals (employees or
+agents) who require access to such Information to carry out their
+responsibilities.
+
+While OURANOS takes reasonable means to protect your privacy, please be
+aware that no method of transmitting Information over the Internet or
+storing information is completely secure and thus OURANOS cannot
+guarantee the absolute security of that Information during the
+transmission or storage on its systems. OURANOS cannot warrant or
+represent that your Information will be protected against, loss, misuse,
+or alteration by third parties.
+
+**Hyperlinks**
+
+The Website incorporates hyperlinks to third parties websites. By
+clicking on such hyperlinks, you leave the Website. Any personal
+information you submit through these sites is subject to such third
+parties' privacy policy, or their terms of use.
+
+OURANOS shall not be liable for damages of any kind resulting from or
+arising out of, both directly and indirectly, your clicking on such hyperlinks
+or and accessing to these third-party websites.
+
+**Cookies**
+
+OURANOS may use cookies to collect some non-identifiable information
+regarding your computer or mobile device and your activities in order to
+help improve the user experience. You can manage your cookie settings
+directly in your browser, however, be aware that if you disable or
+remove cookies, some parts of the Website might not work properly.
+
+**Applicable law and jurisdiction**
+
+Your use of this Website and the Privacy Policy are governed by the
+provincial and federal laws in application in Quebec. Any resulting
+dispute will be subject to the exclusive jurisdiction of the courts of
+the province of Quebec, without regard to conflict of law.
+
+**General information and how to exercise your rights**
+
+Should you have any questions concerning our Privacy Policy, the access
+to your Information, or their collection, use or disclosure, or you wish
+to know how to update or delete your Information, please contact an
+administrator system of the Website in the following manner:
+
+System administration of the Website
+
+550, Sherbrooke street West, West Tower, 19th floor,
+
+Montreal (Quebec) H3A 1B9
+
+Telephone: 514-282-6464, #277 or #455
+
+E-mail: X
+
+We will do our best to treat your request promptly. Please note that we
+may sometimes deny your request under relevant laws.
+
+---
+
+## <a name="français"></a> *(Version française)*
 
 ## Politique de protection des renseignements personnels
 
@@ -148,144 +292,3 @@ Courriel : X
 Nous ferons de notre mieux afin de traiter votre demande dans les
 meilleurs délais. Veuillez prendre note toutefois qu'il est possible que
 votre demande soit refusée conformément aux lois applicables.
-
----
-
-## *(English version)*
-
-**Privacy Policy**
-
-Welcome to *pavics.ouranos.ca*, a web site operated by Ouranos Inc.
-("OURANOS"). By browsing or using *pavics.ouranos.ca* and its content,
-including the data (collectively called the "Website"), you acknowledge
-that you have read and unreservedly agree to be bound by and comply with
-the following privacy policy (called "Privacy Policy"), which together
-with the Terms of use govern OURANOS's relationship with you in relation
-to this Website.
-
-OURANOS respects the privacy of your personal information and is
-committed to protecting it and using it solely for the purpose for which
-it was collected.
-
-**Application and Scope**
-
-When using *pavics.ouranos.ca*, you may provide us with personal
-information. The term "personal information" is defined as "any
-information which relates to a natural person and allows that person to
-be identified" (called "Information").
-
-This Privacy Policy governs the collection, usage and storage of
-Information obtained from users including (i) through JupyterLab or;
-(ii) contacting us by email. This Privacy Policy applies to all
-Information that may be collected by OURANOS through the Website.
-
-OURANOS reserves the right to change its Privacy Policy at any time
-without prior notification. Any changes become effective immediately
-upon being posted on the Website.
-
-**What Information we collect**
-
-Depending on your use of the Website, OURANOS may collect, hold and use
-the information that you knowingly choose to disclose and enter on any
-of the Website's forms or that you otherwise give to OURANOS, such as
-your name, your email address, your organization, your phone number, and
-your IP address.
-
-**Why we collect Information**
-
-The Information is collected and used notably for the following
-purposes:
-
-• Communicate with you after you contacted us;
-
-• Monitor the Website traffic;
-
-• Create an access account to the Website.
-
-The information is only used for the purpose that it was collected.
-
-**How Information it stored**
-
-Any Information collected is stored on servers located in Canada and
-owned by OURANOS.
-
-The Information is stored only for the time required to fulfill the
-purpose for which it was collected or as required by law. After such
-time, any Information provided will be deleted.
-
-**How Information is communicated**
-
-OURANOS never discloses any personal information that it may collect to
-anyone outside of OURANOS without the person's consent, except if
-required or permitted by law.
-
-Relevant personnel may access information, when it is required to
-fulfill the purpose for which the information was collected.
-
-OURANOS does not sell any available personal information to third
-parties. Any collected information is used exclusively in accordance
-with this Privacy Policy.
-
-**Security**
-
-All Information is stored on servers with high-security safeguards,
-protected against misuse and access by unauthorized individuals. OURANOS
-endeavours to maintain appropriate physical, procedural and technical
-security with respect to its office and information storage facilities.
-Any Information is only made available to individuals (employees or
-agents) who require access to such Information to carry out their
-responsibilities.
-
-While OURANOS takes reasonable means to protect your privacy, please be
-aware that no method of transmitting Information over the Internet or
-storing information is completely secure and thus OURANOS cannot
-guarantee the absolute security of that Information during the
-transmission or storage on its systems. OURANOS cannot warrant or
-represent that your Information will be protected against, loss, misuse,
-or alteration by third parties.
-
-**Hyperlinks**
-
-The Website incorporates hyperlinks to third parties websites. By
-clicking on such hyperlinks, you leave the Website. Any personal
-information you submit through these sites is subject to such third
-parties' privacy policy, or their terms of use.
-
-OURANOS shall not be liable for damages of any kind resulting from or
-arising out of, both directly and indirectly, your clicking on such hyperlinks
-or and accessing to these third-party websites.
-
-**Cookies**
-
-OURANOS may use cookies to collect some non-identifiable information
-regarding your computer or mobile device and your activities in order to
-help improve the user experience. You can manage your cookie settings
-directly in your browser, however, be aware that if you disable or
-remove cookies, some parts of the Website might not work properly.
-
-**Applicable law and jurisdiction**
-
-Your use of this Website and the Privacy Policy are governed by the
-provincial and federal laws in application in Quebec. Any resulting
-dispute will be subject to the exclusive jurisdiction of the courts of
-the province of Quebec, without regard to conflict of law.
-
-**General information and how to exercise your rights**
-
-Should you have any questions concerning our Privacy Policy, the access
-to your Information, or their collection, use or disclosure, or you wish
-to know how to update or delete your Information, please contact an
-administrator system of the Website in the following manner:
-
-System administration of the Website
-
-550, Sherbrooke street West, West Tower, 19th floor,
-
-Montreal (Quebec) H3A 1B9
-
-Telephone: 514-282-6464, #277 or #455
-
-E-mail: X
-
-We will do our best to treat your request promptly. Please note that we
-may sometimes deny your request under relevant laws.

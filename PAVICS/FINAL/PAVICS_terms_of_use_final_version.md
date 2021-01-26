@@ -1,4 +1,119 @@
-## *(Version française)*
+### [English Version](#english)
+### [Version Français](#français)
+
+## <a name="english"></a> *(English version)*
+
+**Terms of Use**
+
+Welcome to *pavics.ouranos.ca*, operated by Ouranos Inc. ("OURANOS"). By
+browsing or using the *pavics.ouranos.ca* and its content, including the
+data (collectively the "Website"), you acknowledge that you have read
+and unreservedly agree to be bound by and comply with the following
+terms of use ("TOS"), which together with the Privacy Policy govern
+OURANOS's relationship with you in relation to this Website. These TOS
+may be modified from time to time and such modification will be
+effective immediately upon being posted on the Website.
+
+In addition, the data available on the Website and their derivative
+products, are subject to the terms of use applicable to this data and/or
+licence granted by each organization that is the source of this data. By
+accessing and/or using the data, you agree to comply with said terms of
+use and/or licence applicable available here and/or in the metadata
+related to this data.
+
+**Intellectual property rights**
+
+All materials contained on this Website (including text, information,
+data, tables, maps, graphics, images, pictures) are protected by
+Canadian and foreign copyright laws, which belongs to OURANOS or to
+third parties. Except the rights granted according to the terms of use
+applicable to the data presented on the Website or via the licenses
+attached to the data, all rights, including intellectual property
+rights, relating to the elements contained in this Website, are reserved
+by their respective holders.
+
+Consequently, you are strictly prohibited from modifying, selling or
+granting any licence for the use or commercial exploitation of the
+materials contained in this Website, in whole or in part, unless you
+have obtained prior written authorization from the holders of the rights
+concerned. In this case, you must first acquire the required licence
+rights from their respective owners.
+
+All trademarks and logos used in or appearing on the Website are the
+property of OURANOS or a third party. Nothing herein shall be
+interpreted as allowing, directly or indirectly, the use of these
+trademarks and logos without the prior written authorization of its
+owner.
+
+**Limitation of liability**
+
+This Website may be modified without prior notice and is provided on an
+"as is" and "as available" basis.
+
+You browse and use this Website strictly at your own risk. It is your
+responsibility to ensure that any information, service, product, data or
+any other content provided on the Website meet your specific
+requirements.
+
+OURANOS makes no representations or warranties, express or implied, of
+any kind, including the warranties as to (a) a non-infringement of
+intellectual property rights of third parties; (b) the operation of the
+Website in a safe and uninterrupted manner, without error; (c) fitness
+for a particular purpose or that the use of the Website or its content
+will meet your needs and expectations; (d) the completeness, accuracy,
+reliability, and relevance of the Website; (e) the correction of defects
+or errors in the Website; (f) the absence of viruses or damaging elements
+in the Website.
+
+You agree that OURANOS, its directors, employees, licensors, their
+respective successors and beneficiaries shall under no circumstances be
+liable for damages of any kind, whether direct, indirect, special or
+derivative, including damages for loss of profits, customer base, usage,
+data or any other loss that would result from:
+
+I.  the use or inability to use the Website,
+
+II.  the use, application or interpretation that you make or authorize
+of material contained on this Website, or
+
+III.  any act or omission relating to this Website.
+
+In general, any use of this Website, in violation of intellectual
+property rights, whatever they are, engages your sole responsibility.
+
+**Hyperlinks**
+
+This Website contains hyperlinks to third party websites. By clicking on
+such hyperlinks, you leave the Website. OURANOS is not responsible for
+the content or operation of these websites on which it does not exercise
+any control. Your use and browsing of these other websites are governed
+by the websites' terms of use.
+
+OURANOS shall not be liable for the operation of these hyperlinks and
+for damages of any kind resulting from or arising out of, both directly and
+indirectly, your clicking on such hyperlinks or and accessing to these
+third-party websites.
+
+**Applicable law and jurisdiction**
+
+OURANOS operates this Website in Canada. If you access this website from
+outside of Canada, you do so at your own risk and assume all
+responsibilities in the event that the information found on this Website
+does not comply with the laws of your country or jurisdiction.
+
+Your use of this Website and the TOS are governed by the provincial and
+federal laws in application in Quebec. Any resulting dispute will be
+subject to the exclusive jurisdiction of the courts of the province of
+Quebec, without regard to conflict of law.
+
+**Privacy**
+
+OURANOS's personal information practises on this Website are governed by
+the Privacy Policy.
+
+---
+
+## <a name="français"></a> *(Version française)*
 
 **Conditions d'utilisation**
 
@@ -113,115 +228,3 @@ Québec, sans égard aux principes de conflit des lois.
 
 Les pratiques d'OURANOS en matière de vie privée sur le Site sont régies
 par la Politique de protection des renseignements personnels.
-
----
-
-## *(English version)*
-
-**Terms of Use**
-
-Welcome to *pavics.ouranos.ca*, operated by Ouranos Inc. ("OURANOS"). By
-browsing or using the *pavics.ouranos.ca* and its content, including the
-data (collectively the "Website"), you acknowledge that you have read
-and unreservedly agree to be bound by and comply with the following
-terms of use ("TOS"), which together with the Privacy Policy govern
-OURANOS's relationship with you in relation to this Website. These TOS
-may be modified from time to time and such modification will be
-effective immediately upon being posted on the Website.
-
-In addition, the data available on the Website and their derivative
-products, are subject to the terms of use applicable to this data and/or
-licence granted by each organization that is the source of this data. By
-accessing and/or using the data, you agree to comply with said terms of
-use and/or licence applicable available here and/or in the metadata
-related to this data.
-
-**Intellectual property rights**
-
-All materials contained on this Website (including text, information,
-data, tables, maps, graphics, images, pictures) are protected by
-Canadian and foreign copyright laws, which belongs to OURANOS or to
-third parties. Except the rights granted according to the terms of use
-applicable to the data presented on the Website or via the licenses
-attached to the data, all rights, including intellectual property
-rights, relating to the elements contained in this Website, are reserved
-by their respective holders.
-
-Consequently, you are strictly prohibited from modifying, selling or
-granting any licence for the use or commercial exploitation of the
-materials contained in this Website, in whole or in part, unless you
-have obtained prior written authorization from the holders of the rights
-concerned. In this case, you must first acquire the required licence
-rights from their respective owners.
-
-All trademarks and logos used in or appearing on the Website are the
-property of OURANOS or a third party. Nothing herein shall be
-interpreted as allowing, directly or indirectly, the use of these
-trademarks and logos without the prior written authorization of its
-owner.
-
-**Limitation of liability**
-
-This Website may be modified without prior notice and is provided on an
-"as is" and "as available" basis.
-
-You browse and use this Website strictly at your own risk. It is your
-responsibility to ensure that any information, service, product, data or
-any other content provided on the Website meet your specific
-requirements.
-
-OURANOS makes no representations or warranties, express or implied, of
-any kind, including the warranties as to (a) a non-infringement of
-intellectual property rights of third parties; (b) the operation of the
-Website in a safe and uninterrupted manner, without error; (c) fitness
-for a particular purpose or that the use of the Website or its content
-will meet your needs and expectations; (d) the completeness, accuracy,
-reliability, and relevance of the Website; (e) the correction of defects
-or errors in the Website; (f) the absence of viruses or damaging elements
-in the Website.
-
-You agree that OURANOS, its directors, employees, licensors, their
-respective successors and beneficiaries shall under no circumstances be
-liable for damages of any kind, whether direct, indirect, special or
-derivative, including damages for loss of profits, customer base, usage,
-data or any other loss that would result from:
-
-I.  the use or inability to use the Website,
-
-II.  the use, application or interpretation that you make or authorize
-of material contained on this Website, or
-
-III.  any act or omission relating to this Website.
-
-In general, any use of this Website, in violation of intellectual
-property rights, whatever they are, engages your sole responsibility.
-
-**Hyperlinks**
-
-This Website contains hyperlinks to third party websites. By clicking on
-such hyperlinks, you leave the Website. OURANOS is not responsible for
-the content or operation of these websites on which it does not exercise
-any control. Your use and browsing of these other websites are governed
-by the websites' terms of use.
-
-OURANOS shall not be liable for the operation of these hyperlinks and
-for damages of any kind resulting from or arising out of, both directly and
-indirectly, your clicking on such hyperlinks or and accessing to these
-third-party websites.
-
-**Applicable law and jurisdiction**
-
-OURANOS operates this Website in Canada. If you access this website from
-outside of Canada, you do so at your own risk and assume all
-responsibilities in the event that the information found on this Website
-does not comply with the laws of your country or jurisdiction.
-
-Your use of this Website and the TOS are governed by the provincial and
-federal laws in application in Quebec. Any resulting dispute will be
-subject to the exclusive jurisdiction of the courts of the province of
-Quebec, without regard to conflict of law.
-
-**Privacy**
-
-OURANOS's personal information practises on this Website are governed by
-the Privacy Policy.
