@@ -1,32 +1,3 @@
-## Remarques préliminaires :
-
-## 1/ Cette politique est inspirée de celle du site du portail climatique d'ECCC ainsi que celle du PCIC. C'est un début, il se pourrait qu'il faille l'aménager au vu des débats actuels sur l'aménagement de la Loi sur la protection des renseignements personnels, et en particulier sur le principe du consentement.
-
--   Le texte est à insérer dans un **onglet intitulé** en français
-    **Politique de protection des renseignements personnels** et en
-    anglais **Privacy Policy en haut du site Internet PAVICS**,
-    facilement lisible (il est reconnu que ce qui est en bas à droite
-    n'est pas lu par les internautes) ; les utilisateurs devront
-    pouvoir cliquer sur les onglets en navigant sur toutes les pages
-    du site.
-
--   De plus, il conviendrait de mettre une **fenêtre pop-up** pour
-    obtenir le consentement de la personne à la politique ; cette
-    fenêtre apparait lorsque les utilisateurs entrent sur le site dans
-    laquelle ils devront cocher une case indiquant par exemple ceci ou
-    une autre formule similaire : **« Je reconnais avoir lu, compris et
-    accepté les Conditions d'utilisation du site PAVICS et la Politique
-    de protection des renseignements personnels »**. C'est préférable,
-    surtout si la politique change. Comme cela à chaque fois qu'il entre
-    sur le site, l'utilisateur est censé en prendre connaissance et doit
-    cliquer pour donner son consentement.
-
-1.  ## 
-
-2.  ## 
-
-## ---
-
 ## *(Version française)*
 
 ## Politique de protection des renseignements personnels

@@ -1,34 +1,3 @@
-## Remarques préliminaires :
-
-## 1/ Ces conditions d'utilisation sont inspirées de celles du site du portail climatique d'ECCC, celles du site du PCIC ainsi celles du site des Portraits climatiques d'Ouranos.
-
--   Le texte est à insérer dans un **onglet intitulé** en français
-    **Conditions d'utilisation** et en anglais **Terms of use en haut
-    du site Internet PAVICS**, facilement lisible (il est reconnu que
-    ce qui est en bas à droite n'est pas lu par les internautes) ; les
-    utilisateurs devront pouvoir cliquer sur les onglets en navigant
-    sur toutes les pages du site.
-
--   De plus, il conviendrait de mettre une **fenêtre pop-up** pour
-    obtenir le consentement de la personne aux conditions d'utilisation
-    ; cette fenêtre apparait lorsque les utilisateurs entrent sur le
-    site dans laquelle ils devront cocher une case indiquant par exemple
-    ce ci ou une autre formule similaire: **« Je reconnais avoir lu,
-    compris et accepté les Conditions d'utilisation du site PAVICS et la
-    Politique de protection des renseignements personnels »**. C'est
-    préférable, surtout si les conditions d'utilisation changent. Comme
-    cela à chaque fois qu'il entre sur le site, l'utilisateur est censé
-    en prendre connaissance et doit cliquer pour donner son
-    consentement.
-
-## 2/ Il faudrait indiquer la référence de copyright d'Ouranos ou de tout autre source sur les scénarios climatiques et autres documents/données disponibles appartenant à Ouranos (quand cela est possible). © (*année*) Ouranos Inc. Tous droits réservés.
-
-1.  ## 
-
-2.  ## 
-
----
-
 ## *(Version française)*
 
 **Conditions d'utilisation**
