@@ -1,15 +1,16 @@
 <a name="top"></a>
-## [English Version](#en)
+## [English Version](#top)
 #### [Terms of use](#en_terms)
 #### [Privacy policy](#en_privacy)
 ## [Version Française](#fr)
 #### [Conditions d'utilisation](#fr_terms)
-#### [Politique de protection des renseignements personnels](#fr privacy)
+#### [Politique de protection des renseignements personnels](#fr_privacy)
 
 ___
 ### <a name="en"></a>***English***
 #### <a name="en_terms"></a> ***Terms of Use***
-######<a name="top"></a> top of page
+[top of page](#top)
+
 Welcome to *pavics.ouranos.ca*, operated by Ouranos Inc. ("OURANOS"). By
 browsing or using the *pavics.ouranos.ca* and its content, including the
 data (collectively the "Website"), you acknowledge that you have read
@@ -115,8 +116,10 @@ Quebec, without regard to conflict of law.
 
 OURANOS's personal information practises on this Website are governed by
 the Privacy Policy.
+___
 #### <a name="en_privacy"></a> ***Privacy policy***
-######<a name="top"></a> top of page
+[top of page](#top)
+
 Welcome to *pavics.ouranos.ca*, a web site operated by Ouranos Inc.
 ("OURANOS"). By browsing or using *pavics.ouranos.ca* and its content,
 including the data (collectively called the "Website"), you acknowledge
@@ -253,9 +256,11 @@ We will do our best to treat your request promptly. Please note that we
 may sometimes deny your request under relevant laws.
 
 ___
+
 ### <a name="fr"></a>***Français***
 #### <a name="fr_terms"></a> ***Conditions d'utilisation***
-######<a name="top"></a> haut de page
+[haut de page](#top)
+
 Bienvenue sur le site internet *pavics.ouranos.ca* administré par
 Ouranos Inc. (« OURANOS »). En naviguant sur *pavics.ouranos.ca* et en
 consultant son contenu, y compris les données (collectivement le
@@ -370,7 +375,7 @@ par la Politique de protection des renseignements personnels.
 
 
 #### <a name="fr_privacy"></a> ***Politique de protection des renseignements personnels***
-######<a name="top"></a> haut de page
+[haut de page](#top)
 
 Bienvenue sur le site internet *pavics.ouranos.ca* administré par
 Ouranos Inc. (« OURANOS »). En naviguant sur *pavics.ouranos.ca* et en
