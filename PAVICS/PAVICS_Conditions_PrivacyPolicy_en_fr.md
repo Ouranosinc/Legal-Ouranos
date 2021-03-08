@@ -1,8 +1,11 @@
 <a name="top"></a>
-## [English Version](#top)
+# PAVICS 
+## Terms and conditions & privacy policy / Conditions d'utilisation et politique de protection des renseignements personnels 
+
+### [English Version](#top)
 #### [Terms of use](#en_terms)
 #### [Privacy policy](#en_privacy)
-## [Version Française](#fr)
+### [Version Française](#fr)
 #### [Conditions d'utilisation](#fr_terms)
 #### [Politique de protection des renseignements personnels](#fr_privacy)
 
