@@ -23,12 +23,28 @@ OURANOS's relationship with you in relation to this Website. These TOS
 may be modified from time to time and such modification will be
 effective immediately upon being posted on the Website.
 
-In addition, the data available on the Website and their derivative
-products, are subject to the terms of use applicable to this data and/or
-licence granted by each organization that is the source of this data. By
+PAVICS compute resources are offered freely with the intended purpose of supporting researchers and practitioners in climate change related fields such as:
+* Climate science
+* Climate change vulnerability impacts and adaptation
+* Climate change mitigation
+
+#### Rights and responsibilities 
+
+You are free to access and modify PAVICS datasets, as well as use PAVICS 
+compute resources for research, non-commercial, commercial, or individual purposes.
+
+You are limited by the respective allowed uses of the individual available datasets on the PAVICS platform. Each dataset is subject to the applicable terms of use and/or
+licence granted by each organization that is the source of the data. By
 accessing and/or using the data, you agree to comply with said terms of
 use and/or licence applicable available here and/or in the metadata
 related to this data.
+
+Ouranos reserves the right to revoke access to PAVICS for reasons that are deemed abusive. Some examples of abuse would include, but not be limited to:
+
+* Execution of programs, software, processes that are intended to disrupt (or that could reasonably be expected to disrupt) other computer or network users, or damage or degrade performance, software or hardware components of a system.
+* Mining cryptocurrencies.
+* Distribution or sending of unsolicited or unlawful email or other messages, or promotions of any kind
+* Engaging in or promoting any other fraudulent, deceptive or illegal activities.
 
 **Intellectual property rights**
 
@@ -40,13 +56,6 @@ applicable to the data presented on the Website or via the licenses
 attached to the data, all rights, including intellectual property
 rights, relating to the elements contained in this Website, are reserved
 by their respective holders.
-
-Consequently, you are strictly prohibited from modifying, selling or
-granting any licence for the use or commercial exploitation of the
-materials contained in this Website, in whole or in part, unless you
-have obtained prior written authorization from the holders of the rights
-concerned. In this case, you must first acquire the required licence
-rights from their respective owners.
 
 All trademarks and logos used in or appearing on the Website are the
 property of OURANOS or a third party. Nothing herein shall be
@@ -88,7 +97,7 @@ of material contained on this Website, or
 III.  any act or omission relating to this Website.
 
 In general, any use of this Website, in violation of intellectual
-property rights, whatever they are, engages your sole responsibility.
+property rights, dataset licensing agreements,  whatever they are, engages your sole responsibility.
 
 **Hyperlinks**
 
@@ -275,13 +284,24 @@ relation entre OURANOS et vous relativement au Site. Les Conditions
 peuvent être modifiées à tout moment et ces modifications prennent effet
 immédiatement au moment de leur publication sur le Site.
 
-De plus, les données présentées sur le Site ainsi que leurs produits
-dérivés sont assujettis aux conditions d'utilisation applicables à ces
-données ou à la licence octroyée par chaque organisation qui est la
-source desdites données. En accédant aux données, ou en les utilisant,
-vous convenez de vous conformer aux conditions d'utilisation ou aux
-licences applicables disponibles ici et/ou dans les métadonnées attachées
-aux données.
+Les ressources informatiques de PAVICS sont offertes gratuitement dans le but de soutenir les chercheurs et les praticiens dans les domaines liés au changement climatique tels que :
+* Science du climat
+* Vulnérabilités, impacts et adaptation aux changements climatiques
+* Atténuation des changements climatiques
+
+#### Droits et responsabilités 
+
+Vous êtes libre d'accéder aux ensembles de données PAVICS et de les modifier, ainsi que d'utiliser les ressources de calcul PAVICS 
+à des fins de recherche, non commerciales, commerciales, ou individuelles.
+
+Vous êtes limité par les utilisations autorisées des différents ensembles de données disponibles sur la plateforme PAVICS. Chaque ensemble de données est soumis aux conditions d'utilisation applicables et/ou à la licence accordée par l'organisation qui est la source des données. En accédant et/ou en utilisant les données, vous acceptez de vous conformer à ces conditions d'utilisation et/ou de licence disponibles ici et/ou dans les métadonnées liées à ces données.
+
+Ouranos se réserve le droit de révoquer l'accès à PAVICS pour des raisons jugées abusives. Voici quelques exemples d'abus, sans toutefois s'y limiter :
+
+* L'exécution de programmes, de logiciels, de processus destinés à perturber (ou dont on pourrait raisonnablement s'attendre à ce qu'ils perturbent) d'autres utilisateurs d'ordinateurs ou de réseaux, ou à endommager ou dégrader les performances, les logiciels ou les composants matériels d'un système.
+* Extraction de crypto-monnaies.
+* Distribution ou envoi de courriels ou autres messages non sollicités ou illégaux, ou de promotions de quelque nature que ce soit.
+* S'engager dans toute autre activité frauduleuse, trompeuse ou illégale ou en faire la promotion.
 
 **Droits de propriété intellectuelle**
 
@@ -294,13 +314,6 @@ données présentées sur le Site ou via les licences attachées aux
 données, tous les droits, incluant les droits de propriété
 intellectuelle, afférents aux éléments contenus dans ce Site, sont
 réservés à leurs titulaires respectifs.
-
-En conséquence, il vous est strictement interdit de modifier, de vendre
-et d'octroyer des licences d'utilisation ou d'exploitation commerciale
-sur des éléments contenus sur ce Site, en tout ou en partie, à moins
-d'avoir obtenu au préalable l'autorisation écrite des titulaires des
-droits visés. Dans ce cas, vous devez au préalable acquérir les droits
-de licence requis auprès de leurs propriétaires respectifs.
 
 Les marques de commerce et les logos utilisés ou apparaissant sur le
 Site sont la propriété d'OURANOS ou d'un tiers. Rien aux présentes ne
