@@ -33,16 +33,19 @@ PAVICS compute resources are offered freely with the intended purpose of support
 You are free to access and modify PAVICS datasets, as well as use PAVICS 
 compute resources for research, non-commercial, commercial, or individual purposes.
 
-You are limited by the respective allowed uses of the individual available datasets on the PAVICS platform. Each dataset is subject to the applicable terms of use and/or
+You are limited by the respective allowed uses of the individual available datasets
+on the PAVICS platform. Each dataset is subject to the applicable terms of use and/or
 licence granted by each organization that is the source of the data. By
 accessing and/or using the data, you agree to comply with said terms of
 use and/or licence applicable available here and/or in the metadata
 related to this data.
 
-Ouranos reserves the right to revoke access to PAVICS for reasons that are deemed abusive.
+OURANOS reserves the right to revoke access to PAVICS for reasons that are deemed abusive.
 Some examples of abusive behaviour could include, but not be limited to:
 
-* Execution of programs, software, processes that are intended to disrupt (or that could reasonably be expected to disrupt) other computer or network users, or damage or degrade performance, software or hardware components of a system.
+* Execution of programs, software, processes that are intended to disrupt
+(or that could reasonably be expected to disrupt) other computer or network users,
+or damage or degrade performance, software or hardware components of a system.
 * Mining cryptocurrencies.
 * Distribution or sending of unsolicited or unlawful email or other messages, or promotions of any kind
 * Engaging in or promoting any other fraudulent, deceptive or illegal activities.
@@ -103,7 +106,8 @@ of material contained on this Website, or
 III.  any act or omission relating to this Website.
 
 In general, any use of this Website, in violation of intellectual
-property rights, dataset licensing agreements,  whatever they are, engages your sole responsibility.
+property rights, dataset licensing agreements, whatever they are,
+engages your sole responsibility.
 
 **Hyperlinks**
 
@@ -179,11 +183,9 @@ your IP address.
 The Information is collected and used notably for the following
 purposes:
 
-• Communicate with you after you contacted us;
-
-• Monitor the Website traffic;
-
-• Create an access account to the Website.
+* Communicate with you after you contacted us;
+* Monitor the Website traffic;
+* Create an access account to the Website.
 
 The information is only used for the purpose that it was collected.
 
@@ -227,6 +229,10 @@ transmission or storage on its systems. OURANOS cannot warrant or
 represent that your Information will be protected against, loss, misuse,
 or alteration by third parties.
 
+OURANOS advises you to exercise caution and consider the potential risks
+associated with data transfers, particularly when communicating
+sensitive or personal information through the platform.
+
 **Hyperlinks**
 
 The Website incorporates hyperlinks to third parties websites. By
@@ -253,14 +259,73 @@ provincial and federal laws in application in Quebec. Any resulting
 dispute will be subject to the exclusive jurisdiction of the courts of
 the province of Quebec, without regard to conflict of law.
 
+**Data subject rights**
+
+As a user of **pavics.ouranos.ca**, you have certain rights regarding
+your personal information. These rights include:
+
+1. Right to Access: You have the right to request access to the personal
+information we hold about you. Upon request, we will provide you with
+a copy of the information we have collected.
+
+2. Right to Rectification: If you believe that any personal information
+we hold about you is inaccurate or incomplete, you have the right to
+request the correction or updating of that information. 
+
+3. Right to Restrict Processing: You have the right to request the
+restriction of processing of your personal information under certain
+circumstances. This means we will limit the ways in which we use your
+information, but we may still store it.
+
+4. Right to Erasure: In certain situations, you have the right to request
+the deletion of your personal information. Once your request is validated,
+we will delete your information from our records, subject to any legal
+obligations that may require its retention.
+
+**Legal Basis for Processing**
+
+OURANOS processes personal data based on one or more of the following legal bases:
+
+1. **Consent**: We may process personal data based on the explicit consent
+provided by the individuals for specific purposes. You have the right to
+withdraw your consent at any time by contacting us using the information
+provided in this privacy policy.
+
+2. **Contractual Necessity**: In certain circumstances, we may process
+personal data to fulfill our contractual obligations or to take necessary
+steps prior to entering into a contract with you.
+
+3. **Legal Obligation**: We may process personal data when it is necessary
+to comply with applicable laws, regulations, or legal obligations imposed on OURANOS.
+
+4. **Legitimate Interests**: We may process personal data based on our
+legitimate interests, which include conducting research, improving our services,
+ensuring network and information security, and protecting the rights and
+interests of OURANOS and individuals involved. We will carefully balance our
+legitimate interests with your rights and freedoms, and you have the right
+to object to such processing.
+
+5. **Vital Interests**: In situations where it is necessary to protect the
+vital interests of individuals or others, we may process personal data.
+
+6. **Public Task**: We may process personal data when it is necessary for the
+performance of tasks carried out in the public interest or in the exercise
+of official authority entrusted to OURANOS.
+
+We ensure that the legal basis for processing personal data is identified and
+documented in accordance with applicable data protection laws. The specific
+legal basis for each processing activity will depend on the nature of the
+data and the purpose of processing.
+
 **General information and how to exercise your rights**
 
-Should you have any questions concerning our Privacy Policy, the access
-to your Information, or their collection, use or disclosure, or you wish
-to know how to update or delete your Information, please contact an
-administrator system of the Website in the following manner:
+If you have any questions regarding our Privacy Policy, accessing your
+information, or the collection, use, or disclosure of your information,
+or if you would like to know how to update or delete your Information,
+please contact the system administrator of the Website using the following
+contact details:
 
-System administration of the Website
+Website System Administration
 
 550, Sherbrooke street West, West Tower, 19th floor,
 
@@ -270,8 +335,9 @@ Telephone: 514-282-6464, #277 or #455
 
 E-mail: pavics@ouranos.ca
 
-We will do our best to treat your request promptly. Please note that we
-may sometimes deny your request under relevant laws.
+We will make every effort to address your request promptly. However, please note
+that while we strive to respond to your requests in a timely manner, there may be
+circumstances where we are unable to fulfill them due to applicable laws or regulations.
 
 ___
 
@@ -290,23 +356,37 @@ relation entre OURANOS et vous relativement au Site. Les Conditions
 peuvent être modifiées à tout moment et ces modifications prennent effet
 immédiatement au moment de leur publication sur le Site.
 
-Les ressources informatiques de PAVICS sont offertes gratuitement dans le but de soutenir les chercheurs et les praticiens dans les domaines liés au changement climatique tels que :
+Les ressources informatiques de PAVICS sont offertes gratuitement dans le but
+de soutenir les chercheurs et les praticiens dans les domaines liés au
+changement climatique tels que :
+
 * Science du climat
 * Vulnérabilités, impacts et adaptation aux changements climatiques
 * Atténuation des changements climatiques
 
 #### Droits et responsabilités 
 
-Vous êtes libre d'accéder aux ensembles de données PAVICS et de les modifier, ainsi que d'utiliser les ressources de calcul PAVICS 
-à des fins de recherche, non commerciales, commerciales, ou individuelles.
+Vous êtes libre d'accéder aux ensembles de données PAVICS et de les modifier,
+ainsi que d'utiliser les ressources de calcul PAVICS à des fins de recherche,
+non commerciales, commerciales, ou individuelles.
 
-Vous êtes limité par les utilisations autorisées des différents ensembles de données disponibles sur la plateforme PAVICS. Chaque ensemble de données est soumis aux conditions d'utilisation applicables et/ou à la licence accordée par l'organisation qui est la source des données. En accédant et/ou en utilisant les données, vous acceptez de vous conformer à ces conditions d'utilisation et/ou de licence disponibles ici et/ou dans les métadonnées liées à ces données.
+Vous êtes limité par les utilisations autorisées des différents ensembles de données
+disponibles sur la plateforme PAVICS. Chaque ensemble de données est soumis
+aux conditions d'utilisation applicables et/ou à la licence accordée par
+l'organisation qui est la source des données. En accédant et/ou en utilisant les
+données, vous acceptez de vous conformer à ces conditions d'utilisation et/ou de
+licence disponibles ici et/ou dans les métadonnées liées à ces données.
 
-Ouranos se réserve le droit de révoquer l'accès à PAVICS pour des raisons jugées abusives. Voici quelques exemples de comportements abusifs, sans toutefois s'y limiter:
+OURANOS se réserve le droit de révoquer l'accès à PAVICS pour des raisons jugées abusives.
+Voici quelques exemples de comportements abusifs, sans toutefois s'y limiter :
 
-* L'exécution de programmes, de logiciels, de processus destinés à perturber (ou dont on pourrait raisonnablement s'attendre à ce qu'ils perturbent) d'autres utilisateurs d'ordinateurs ou de réseaux, ou à endommager ou dégrader les performances, les logiciels ou les composants matériels d'un système.
+* L'exécution de programmes, de logiciels, de processus destinés à perturber
+(ou dont on pourrait raisonnablement s'attendre à ce qu'ils perturbent) d'autres
+utilisateurs d'ordinateurs ou de réseaux, ou à endommager ou dégrader les performances,
+les logiciels ou les composants matériels d'un système.
 * Extraction de crypto-monnaies.
-* Distribution ou envoi de courriels ou autres messages non sollicités ou illégaux, ou de promotions de quelque nature que ce soit.
+* Distribution ou envoi de courriels ou autres messages non sollicités ou illégaux,
+ou de promotions de quelque nature que ce soit.
 * S'engager dans toute autre activité frauduleuse, trompeuse ou illégale ou en faire la promotion.
 
 **Droits de propriété intellectuelle**
@@ -314,7 +394,7 @@ Ouranos se réserve le droit de révoquer l'accès à PAVICS pour des raisons ju
 Tous les éléments contenus dans ce Site, y compris les textes,
 informations, données, tableaux, cartes, graphiques, images, photos,
 sont protégés par les lois canadiennes ou étrangères en matière de
-droits d'auteur, et appartiennent à Ouranos ou à des tiers. Excepté les
+droits d'auteur, et appartiennent à OURANOS ou à des tiers. Excepté les
 droits octroyés selon les conditions d'utilisation applicables aux
 données présentées sur le Site ou via les licences attachées aux
 données, tous les droits, incluant les droits de propriété
@@ -349,7 +429,7 @@ correction des défauts ou des erreurs sur le Site ; (f) à l'absence de
 virus ou d'éléments dommageables sur le Site.
 
 Bien qu'OURANOS ne fournisse pas de garantie pour la correction automatique
-des défauts ou erreurs signalées sur le site web, Ouranos s'engage à
+des défauts ou erreurs signalées sur le site web, OURANOS s'engage à
 remédier aux défauts ou erreurs signalées dans la mesure de ses possibilités,
 bien qu'elle n'en ait pas l'obligation.
 
@@ -360,11 +440,12 @@ toute nature, directs, indirects, spéciaux, dérivés ou exemplaires, y
 compris des dommages pour la perte de profits, de clientèle, d'usage, de
 données ou pour toute autre perte, qui résulteraient de :
 
-I.  l'utilisation ou de l'impossibilité d'utiliser le Site,
+I. l'utilisation ou de l'impossibilité d'utiliser le Site,
 
-II.  l'utilisation, l'application ou l'interprétation que vous faites ou autorisez des éléments contenus dans ce Site,
+II. l'utilisation, l'application ou l'interprétation que vous faites
+ou autorisez des éléments contenus dans ce Site,
 
-III.  toute action ou omission relative à ce Site.
+III. toute action ou omission relative à ce Site.
 
 De manière générale, toute utilisation de ce Site, en violation des
 droits de propriété intellectuelle, quels qu'ils soient, engage votre
@@ -448,11 +529,9 @@ adresse IP.
 Les Renseignements sont recueillis et utilisés notamment pour les
 raisons suivantes :
 
-• Communiquer avec vous après que vous nous ayez contactés ;
-
-• Contrôler l'achalandage sur le Site ;
-
-• Créer un compte d'accès au Site.
+* Communiquer avec vous après que vous nous ayez contactés ;
+* Contrôler l'achalandage sur le Site ;
+* Créer un compte d'accès au Site.
 
 Les Renseignements sont uniquement utilisés aux fins auxquelles ils ont
 été recueillis.
@@ -500,6 +579,12 @@ son stockage dans ses systèmes. OURANOS ne peut garantir ni ne
 représente que vos Renseignements seront protégés contre la perte, le
 mauvais usage ou la falsification par des tiers.
 
+OURANOS vous conseille d'être prudent et de prendre en considération
+les risques potentiels liés aux transferts de données, en particulier lors
+de la communication de données. associés aux transferts de données, en
+particulier lorsque vous communiquez des informations sensibles ou
+personnelles par le biais de la plate-forme.
+
 **Hyperliens**
 
 Le Site contient des hyperliens vers des sites Internet de tiers. En
@@ -529,24 +614,88 @@ provinciales et fédérales en vigueur au Québec. Tout litige en découlant
 sera soumis à la compétence exclusive des tribunaux de la province du
 Québec, sans égard aux principes de conflit des lois.
 
+
+**Droits des personnes concernées**
+
+En tant qu'utilisateur de pavics.ouranos.ca, vous disposez de certains droits
+concernant vos informations personnelles. Ces droits comprennent :
+
+1. Droit d'accès : Vous avez le droit de demander l'accès aux informations personnelles
+que nous détenons à votre sujet. Sur demande, nous vous fournirons une copie des 
+informations que nous avons collectées.
+
+2. Droit de rectification : Si vous estimez que les informations personnelles que nous
+détenons à votre sujet sont inexactes ou incomplètes, vous avez le droit de demander
+la correction ou la mise à jour de ces informations.
+
+3. Droit de limitation du traitement : Vous avez le droit de demander la limitation du
+traitement de vos informations personnelles dans certaines circonstances.
+Cela signifie que nous limiterons les façons dont nous utilisons vos informations,
+mais nous pourrions les conserver. 
+
+4. Droit d'effacement : Dans certaines situations, vous avez le droit de demander la
+suppression de vos informations personnelles. Une fois votre demande validée, nous
+supprimerons vos informations de nos registres, sous réserve des obligations légales
+qui pourraient exiger leur conservation.
+
+**Fondement légal du traitement des données**
+
+OURANOS traite les données personnelles sur la base d'un ou plusieurs fondements légaux suivants :
+
+1. **Consentement** : Nous pouvons traiter les données personnelles sur la base du
+consentement explicite fourni par les individus pour des finalités spécifiques.
+Vous avez le droit de retirer votre consentement à tout moment en nous contactant
+aux coordonnées fournies dans cette politique de confidentialité.
+
+2. **Nécessité contractuelle** : Dans certaines circonstances, nous pouvons traiter
+les données personnelles afin de remplir nos obligations contractuelles ou de
+prendre des mesures nécessaires avant de conclure un contrat avec vous.
+
+3. **Obligation légale** : Nous pouvons traiter les données personnelles lorsqu'il
+est nécessaire de se conformer aux lois, règlements ou obligations légales applicables
+imposées à OURANOS.
+
+4. **Intérêts légitimes** : Nous pouvons traiter les données personnelles sur la
+base de nos intérêts légitimes, qui comprennent la réalisation de recherches,
+l'amélioration de nos services, la garantie de la sécurité du réseau et des
+informations, ainsi que la protection des droits et intérêts d'OURANOS et des
+personnes concernées. Nous équilibrerons soigneusement nos intérêts légitimes
+avec vos droits et libertés, et vous avez le droit de vous opposer à de tels traitements.
+
+5. **Intérêts vitaux** : Dans les situations où il est nécessaire de protéger les
+intérêts vitaux des individus ou d'autres personnes, nous pouvons traiter des données personnelles.
+
+6. **Mission d'intérêt public** : Nous pouvons traiter les données personnelles
+lorsqu'il est nécessaire d'accomplir des tâches d'intérêt public ou dans l'exercice
+de l'autorité officielle confiée à OURANOS.
+
+Nous veillons à ce que le fondement légal du traitement des données personnelles
+soit identifié et documenté conformément aux lois de protection des données applicables.
+Le fondement légal spécifique de chaque activité de traitement dépendra de la nature
+des données et de la finalité du traitement.
+
+Si vous avez des questions ou avez besoin de plus d'informations concernant le
+fondement légal du traitement de vos données personnelles, veuillez nous contacter
+en utilisant les coordonnées fournies dans cette politique de confidentialité.
+
 **Renseignements généraux et comment exercer vos droits**
 
-Si vous avez une question quant à cette Politique, à l'accès à vos
-Renseignements ou à leur collecte, utilisation et divulgation, ou que
-vous souhaitez savoir comment mettre à jour ou effacer vos
-Renseignements, veuillez contacter un administrateur système du Site de
-la manière suivante :
+Si vous avez des questions concernant notre politique de confidentialité, l'accès
+à vos informations, leur collecte, leur utilisation ou leur divulgation, ou si vous
+souhaitez savoir comment mettre à jour ou supprimer vos informations, veuillez
+contacter l'administrateur système du site web aux coordonnées suivantes :
 
-Administration système du Site
+Administration système du site web
 
 550, rue Sherbrooke Ouest, Tour Ouest, 19e étage,
 
 Montréal (Québec) H3A 1B9
 
-Téléphone : 514-282-6464, #277 ou #455
+Téléphone : 514-282-6464, poste 277 ou 455
 
-Courriel : pavics@ouranos.ca
+E-mail : pavics@ouranos.ca
 
-Nous ferons de notre mieux afin de traiter votre demande dans les
-meilleurs délais. Veuillez prendre note toutefois qu'il est possible que
-votre demande soit refusée conformément aux lois applicables.
+Nous ferons tout notre possible pour traiter votre demande rapidement. Veuillez
+toutefois noter que bien que nous nous efforcions de répondre rapidement à vos demandes,
+il peut y avoir des circonstances dans lesquelles nous ne sommes pas en mesure de
+les satisfaire en raison des lois ou réglementations applicables.
