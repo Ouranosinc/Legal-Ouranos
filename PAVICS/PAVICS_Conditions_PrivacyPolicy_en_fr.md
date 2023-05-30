@@ -39,7 +39,8 @@ accessing and/or using the data, you agree to comply with said terms of
 use and/or licence applicable available here and/or in the metadata
 related to this data.
 
-Ouranos reserves the right to revoke access to PAVICS for reasons that are deemed abusive. Some examples of abuse would include, but not be limited to:
+Ouranos reserves the right to revoke access to PAVICS for reasons that are deemed abusive.
+Some examples of abusive behaviour could include, but not be limited to:
 
 * Execution of programs, software, processes that are intended to disrupt (or that could reasonably be expected to disrupt) other computer or network users, or damage or degrade performance, software or hardware components of a system.
 * Mining cryptocurrencies.
@@ -54,8 +55,8 @@ Canadian and foreign copyright laws, which belongs to OURANOS or to
 third parties. Except the rights granted according to the terms of use
 applicable to the data presented on the Website or via the licenses
 attached to the data, all rights, including intellectual property
-rights, relating to the elements contained in this Website, are reserved
-by their respective holders.
+rights, relating to the elements (data, source code, text, images, etc.)
+contained in this Website, are reserved by their respective holders.
 
 All trademarks and logos used in or appearing on the Website are the
 property of OURANOS or a third party. Nothing herein shall be
@@ -82,6 +83,11 @@ will meet your needs and expectations; (d) the completeness, accuracy,
 reliability, and relevance of the Website; (e) the correction of defects
 or errors in the Website; (f) the absence of viruses or damaging elements
 in the Website.
+
+While OURANOS does not provide warranties for the automatic correction of
+defects or errors within the website, OURANOS is committed to addressing reported
+defects or errors to the best of its abilities, although it is not
+obligated to do so.
 
 You agree that OURANOS, its directors, employees, licensors, their
 respective successors and beneficiaries shall under no circumstances be
@@ -296,7 +302,7 @@ Vous êtes libre d'accéder aux ensembles de données PAVICS et de les modifier,
 
 Vous êtes limité par les utilisations autorisées des différents ensembles de données disponibles sur la plateforme PAVICS. Chaque ensemble de données est soumis aux conditions d'utilisation applicables et/ou à la licence accordée par l'organisation qui est la source des données. En accédant et/ou en utilisant les données, vous acceptez de vous conformer à ces conditions d'utilisation et/ou de licence disponibles ici et/ou dans les métadonnées liées à ces données.
 
-Ouranos se réserve le droit de révoquer l'accès à PAVICS pour des raisons jugées abusives. Voici quelques exemples d'abus, sans toutefois s'y limiter :
+Ouranos se réserve le droit de révoquer l'accès à PAVICS pour des raisons jugées abusives. Voici quelques exemples de comportements abusifs, sans toutefois s'y limiter:
 
 * L'exécution de programmes, de logiciels, de processus destinés à perturber (ou dont on pourrait raisonnablement s'attendre à ce qu'ils perturbent) d'autres utilisateurs d'ordinateurs ou de réseaux, ou à endommager ou dégrader les performances, les logiciels ou les composants matériels d'un système.
 * Extraction de crypto-monnaies.
@@ -312,8 +318,8 @@ droits d'auteur, et appartiennent à Ouranos ou à des tiers. Excepté les
 droits octroyés selon les conditions d'utilisation applicables aux
 données présentées sur le Site ou via les licences attachées aux
 données, tous les droits, incluant les droits de propriété
-intellectuelle, afférents aux éléments contenus dans ce Site, sont
-réservés à leurs titulaires respectifs.
+intellectuelle, afférents aux éléments contenus dans ce Site (données,
+code source, texte, images, etc.), sont réservés à leurs titulaires respectifs.
 
 Les marques de commerce et les logos utilisés ou apparaissant sur le
 Site sont la propriété d'OURANOS ou d'un tiers. Rien aux présentes ne
@@ -341,6 +347,11 @@ satisfera vos besoins et vos attentes ; (d) à l'exhaustivité, à
 l'exactitude, à la fiabilité et à la pertinence du Site ; (e) à la
 correction des défauts ou des erreurs sur le Site ; (f) à l'absence de
 virus ou d'éléments dommageables sur le Site.
+
+Bien qu'OURANOS ne fournisse pas de garantie pour la correction automatique
+des défauts ou erreurs signalées sur le site web, Ouranos s'engage à
+remédier aux défauts ou erreurs signalées dans la mesure de ses possibilités,
+bien qu'elle n'en ait pas l'obligation.
 
 Vous convenez qu'OURANOS, ses administrateurs, ses employés, ses
 concédants de licence, leurs successeurs et ayant droits respectifs, ne
