@@ -170,33 +170,50 @@ OURANOS reserves the right to change its Privacy Policy at any time
 without prior notification. Any changes become effective immediately
 upon being posted on the Website.
 
-**What Information we collect**
+**Information collection, usage, and retention**
 
 Depending on your use of the Website, OURANOS may collect, hold and use
-the information that you knowingly choose to disclose and enter on any
+the Information that you knowingly choose to disclose and enter on any
 of the Website's forms or that you otherwise give to OURANOS, such as
 your name, your email address, your organization, your phone number, and
-your IP address.
+your IP address. Information created within or uploaded to workspaces is
+held within servers at OURANOS, while User Survey information is stored
+within the cloud. 
+
+I. Usage Data:
+- We retain the last three (3) months of usage data, which includes information
+  about your interactions with the platform. This data is stored on OURANOS servers.
+
+II. User Workspace Data:
+- User workspace data, including any files, documents, or content created, modified,
+  or uploaded by users, is kept indefinitely. This data is stored on OURANOS servers.
+
+III. Survey Information:
+- Any information and metadata provided in the user survey during account creation.
+  This information is stored in the cloud indefinitely.
+
+We will retain the Information for as long as necessary to fulfill the purposes
+stated above or as required by law. After such time, any Information provided
+will be deleted. In certain cases, we may anonymize or aggregate the data for
+statistical or research purposes, in which case it may be retained for a
+longer period.
+
+By using our platform, you acknowledge and consent to the retention of
+your data as described above.
 
 **Why we collect Information**
 
 The Information is collected and used notably for the following
 purposes:
 
-* Communicate with you after you contacted us;
-* Monitor the Website traffic;
-* Create an access account to the Website.
+* To communicate with you and provide support after you have contacted us.
+* To monitor website traffic and analyze usage patterns in order to improve the performance and functionality of the platform.
+* To create and maintain user accounts, allowing you to access and utilize the features and services offered by the Platform. 
+* To ensure the continuous access and retrieval of your workspace data, including files, documents, and content created or uploaded by you. 
+* To gather information through user surveys for usage statistics and analytical purposes, helping us understand user preferences and improve our services. 
+* To comply with legal obligations and regulatory requirements regarding data retention.
 
 The information is only used for the purpose that it was collected.
-
-**How Information it stored**
-
-Any Information collected is stored on servers located in Canada and
-owned by OURANOS.
-
-The Information is stored only for the time required to fulfill the
-purpose for which it was collected or as required by law. After such
-time, any Information provided will be deleted.
 
 **How Information is communicated**
 
@@ -210,6 +227,35 @@ fulfill the purpose for which the information was collected.
 OURANOS does not sell any available personal information to third
 parties. Any collected information is used exclusively in accordance
 with this Privacy Policy.
+
+**Legal basis for processing Information**
+
+OURANOS processes personal data based on one or more of the following legal bases:
+
+1. **Consent**: We may process personal data based on the explicit consent
+provided by individuals for specific purposes. You have the right to
+withdraw your consent at any time by contacting us using the information
+provided in this privacy policy.
+
+2. **Legal Obligation**: We may process personal data when it is necessary
+to comply with applicable laws, regulations, or legal obligations imposed
+on OURANOS.
+
+3. **Legitimate Interests**: We may process personal data based on our
+legitimate interests, which include conducting research, improving our
+services, ensuring network and information security, and protecting the
+rights and interests of OURANOS and individuals involved. We will carefully
+balance our legitimate interests with your rights and freedoms, and
+you have the right to object to such processing.
+
+We ensure that the legal basis for processing personal data is identified and
+documented in accordance with applicable data protection laws. The specific
+legal basis for each processing activity will depend on the nature of the
+data and the purpose of processing.
+
+If you have any questions or need further information regarding the legal
+basis for the processing of your personal data, please contact us using the
+contact details provided in this privacy policy.
 
 **Security**
 
@@ -282,41 +328,6 @@ the deletion of your personal information. Once your request is validated,
 we will delete your information from our records, subject to any legal
 obligations that may require its retention.
 
-**Legal Basis for Processing**
-
-OURANOS processes personal data based on one or more of the following legal bases:
-
-1. **Consent**: We may process personal data based on the explicit consent
-provided by the individuals for specific purposes. You have the right to
-withdraw your consent at any time by contacting us using the information
-provided in this privacy policy.
-
-2. **Contractual Necessity**: In certain circumstances, we may process
-personal data to fulfill our contractual obligations or to take necessary
-steps prior to entering into a contract with you.
-
-3. **Legal Obligation**: We may process personal data when it is necessary
-to comply with applicable laws, regulations, or legal obligations imposed on OURANOS.
-
-4. **Legitimate Interests**: We may process personal data based on our
-legitimate interests, which include conducting research, improving our services,
-ensuring network and information security, and protecting the rights and
-interests of OURANOS and individuals involved. We will carefully balance our
-legitimate interests with your rights and freedoms, and you have the right
-to object to such processing.
-
-5. **Vital Interests**: In situations where it is necessary to protect the
-vital interests of individuals or others, we may process personal data.
-
-6. **Public Task**: We may process personal data when it is necessary for the
-performance of tasks carried out in the public interest or in the exercise
-of official authority entrusted to OURANOS.
-
-We ensure that the legal basis for processing personal data is identified and
-documented in accordance with applicable data protection laws. The specific
-legal basis for each processing activity will depend on the nature of the
-data and the purpose of processing.
-
 **General information and how to exercise your rights**
 
 If you have any questions regarding our Privacy Policy, accessing your
@@ -382,8 +393,8 @@ Voici quelques exemples de comportements abusifs, sans toutefois s'y limiter :
 
 * L'exécution de programmes, de logiciels, de processus destinés à perturber
 (ou dont on pourrait raisonnablement s'attendre à ce qu'ils perturbent) d'autres
-utilisateurs d'ordinateurs ou de réseaux, ou à endommager ou dégrader les performances,
-les logiciels ou les composants matériels d'un système.
+utilisateurs d'ordinateurs ou de réseaux, ou à endommager ou dégrader les
+performances, les logiciels ou les composants matériels d'un système.
 * Extraction de crypto-monnaies.
 * Distribution ou envoi de courriels ou autres messages non sollicités ou illégaux,
 ou de promotions de quelque nature que ce soit.
@@ -515,26 +526,66 @@ OURANOS se réserve le droit de modifier la présente Politique à tout
 moment sans préavis et ces modifications prennent effet immédiatement au
 moment de leur publication sur le Site.
 
-**Quels sont les Renseignements susceptibles d'être recueillis**
+**Collecte, utilisation et conservation des renseignements**
 
-Selon votre utilisation du Site, OURANOS peut recueillir, conserver et
-utiliser les Renseignements que vous choisissez délibérément de
-divulguer et d'entrer dans l'un des formulaires du Site ou que vous
-fournissez de toute autre manière à OURANOS, tels que votre nom, votre
-adresse courriel, votre organisation, votre numéro de téléphone et votre
-adresse IP.
+Selon votre utilisation du site Web, OURANOS peut collecter, conserver
+et utiliser les renseignements que vous choisissez délibérément de
+divulguer et de saisir sur l'un des formulaires du site Web, ou que
+vous donnez autrement à OURANOS, tels que votre nom, votre adresse courriel,
+votre organisation, votre numéro de téléphone et votre adresse IP.
+Les renseignements créés à l'intérieur des espaces de travail ou téléchargés
+sur ceux-ci sont conservés sur les serveurs d'OURANOS, tandis que les
+renseignements des enquêtes utilisateur sont stockés dans le cloud.
 
-**À quelles fins les Renseignements sont-ils recueillis**
+I. Données d'utilisation :
+- Nous conservons les trois (3) derniers mois de données d'utilisation,
+qui incluent des renseignements sur vos interactions avec la plateforme.
+Ces données sont stockées sur les serveurs d'OURANOS.
 
-Les Renseignements sont recueillis et utilisés notamment pour les
-raisons suivantes :
+II. Données des espaces de travail des utilisateurs :
+- Les données des espaces de travail des utilisateurs, y compris les fichiers,
+documents ou contenus créés, modifiés ou téléchargés par les utilisateurs,
+sont conservées indéfiniment. Ces données sont stockées sur les serveurs
+d'OURANOS.
 
-* Communiquer avec vous après que vous nous ayez contactés ;
-* Contrôler l'achalandage sur le Site ;
-* Créer un compte d'accès au Site.
+III. Renseignements d'enquête :
+- Tous les renseignements et métadonnées fournis dans l'enquête
+utilisateur lors de la création du compte. Ces renseignements sont
+stockés dans le cloud indéfiniment.
 
-Les Renseignements sont uniquement utilisés aux fins auxquelles ils ont
-été recueillis.
+Nous conserverons les renseignements aussi longtemps que nécessaire
+pour atteindre les objectifs mentionnés ci-dessus ou comme requis par
+la loi. Après cette période, tous les renseignements fournis seront
+supprimés. Dans certains cas, nous pouvons anonymiser ou regrouper les
+données à des fins statistiques ou de recherche, auquel cas elles peuvent
+être conservées plus longtemps.
+
+En utilisant notre plateforme, vous reconnaissez et consentez à la
+conservation de vos renseignements tels que décrits ci-dessus.
+
+**Raisons de la collecte des renseignements**
+
+Les renseignements sont collectés et utilisés notamment dans les
+buts suivants :
+
+* Communiquer avec vous et fournir une assistance après que vous nous
+avez contactés.
+* Surveiller le trafic sur le site Web et analyser les modèles
+d'utilisation afin d'améliorer les performances et les fonctionnalités
+de la plateforme.
+* Créer et gérer des comptes utilisateur, vous permettant d'accéder et
+d'utiliser les fonctionnalités et services offerts par la plateforme.
+* Assurer l'accès continu et la récupération de vos données d'espace de
+travail, y compris les fichiers, documents et contenus créés ou téléchargés
+par vous.
+* Collecter des renseignements à travers des enquêtes utilisateur à des
+fins de statistiques d'utilisation et d'analyse, nous aidant à comprendre
+les préférences des utilisateurs et à améliorer nos services.
+* Se conformer aux obligations légales et aux exigences réglementaires
+concernant la conservation des données.
+
+Les renseignements ne sont utilisés que dans le but pour lequel
+ils ont été collectés.
 
 **Comment sont stockés les Renseignements**
 
@@ -559,6 +610,39 @@ nécessaire à la réalisation des fins auxquelles les Renseignements ont
 OURANOS ne vend pas à des tiers les Renseignements auxquels il a accès.
 Les Renseignements recueillis sont utilisés exclusivement conformément à
 la présente Politique.
+
+**Fondement juridique du traitement des renseignements**
+
+OURANOS traite les données personnelles sur la base d'un ou plusieurs
+des fondements juridiques suivants :
+
+1. **Consentement** : Nous pouvons traiter les données personnelles sur
+la base du consentement explicite fourni par les personnes concernées à
+des fins spécifiques. Vous avez le droit de retirer votre consentement à
+tout moment en nous contactant à l'aide des informations fournies dans
+cette politique de confidentialité.
+
+2. **Obligation légale** : Nous pouvons traiter les données personnelles
+lorsqu'il est nécessaire de se conformer aux lois, règlements ou obligations
+légales applicables imposées à OURANOS.
+
+3. **Intérêts légitimes** : Nous pouvons traiter les données personnelles
+sur la base de nos intérêts légitimes, qui incluent la réalisation de
+recherches, l'amélioration de nos services, la garantie de la sécurité
+des réseaux et des informations, ainsi que la protection des droits et
+des intérêts d'OURANOS et des personnes concernées. Nous équilibrerons
+soigneusement nos intérêts légitimes avec vos droits et libertés, et vous
+avez le droit de vous opposer à un tel traitement.
+
+Nous veillons à ce que le fondement juridique du traitement des données
+personnelles soit identifié et documenté conformément aux lois applicables
+en matière de protection des données. Le fondement juridique spécifique
+de chaque activité de traitement dépendra de la nature des données et de
+la finalité du traitement.
+
+Si vous avez des questions ou avez besoin de plus d'informations concernant le
+fondement légal du traitement de vos données personnelles, veuillez nous contacter
+en utilisant les coordonnées fournies dans cette politique de confidentialité.
 
 **Sécurité**
 
@@ -637,46 +721,6 @@ mais nous pourrions les conserver.
 suppression de vos informations personnelles. Une fois votre demande validée, nous
 supprimerons vos informations de nos registres, sous réserve des obligations légales
 qui pourraient exiger leur conservation.
-
-**Fondement légal du traitement des données**
-
-OURANOS traite les données personnelles sur la base d'un ou plusieurs fondements légaux suivants :
-
-1. **Consentement** : Nous pouvons traiter les données personnelles sur la base du
-consentement explicite fourni par les individus pour des finalités spécifiques.
-Vous avez le droit de retirer votre consentement à tout moment en nous contactant
-aux coordonnées fournies dans cette politique de confidentialité.
-
-2. **Nécessité contractuelle** : Dans certaines circonstances, nous pouvons traiter
-les données personnelles afin de remplir nos obligations contractuelles ou de
-prendre des mesures nécessaires avant de conclure un contrat avec vous.
-
-3. **Obligation légale** : Nous pouvons traiter les données personnelles lorsqu'il
-est nécessaire de se conformer aux lois, règlements ou obligations légales applicables
-imposées à OURANOS.
-
-4. **Intérêts légitimes** : Nous pouvons traiter les données personnelles sur la
-base de nos intérêts légitimes, qui comprennent la réalisation de recherches,
-l'amélioration de nos services, la garantie de la sécurité du réseau et des
-informations, ainsi que la protection des droits et intérêts d'OURANOS et des
-personnes concernées. Nous équilibrerons soigneusement nos intérêts légitimes
-avec vos droits et libertés, et vous avez le droit de vous opposer à de tels traitements.
-
-5. **Intérêts vitaux** : Dans les situations où il est nécessaire de protéger les
-intérêts vitaux des individus ou d'autres personnes, nous pouvons traiter des données personnelles.
-
-6. **Mission d'intérêt public** : Nous pouvons traiter les données personnelles
-lorsqu'il est nécessaire d'accomplir des tâches d'intérêt public ou dans l'exercice
-de l'autorité officielle confiée à OURANOS.
-
-Nous veillons à ce que le fondement légal du traitement des données personnelles
-soit identifié et documenté conformément aux lois de protection des données applicables.
-Le fondement légal spécifique de chaque activité de traitement dépendra de la nature
-des données et de la finalité du traitement.
-
-Si vous avez des questions ou avez besoin de plus d'informations concernant le
-fondement légal du traitement de vos données personnelles, veuillez nous contacter
-en utilisant les coordonnées fournies dans cette politique de confidentialité.
 
 **Renseignements généraux et comment exercer vos droits**
 
