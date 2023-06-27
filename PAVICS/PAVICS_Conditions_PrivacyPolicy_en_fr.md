@@ -386,7 +386,7 @@ disponibles sur la plateforme PAVICS. Chaque ensemble de données est soumis
 aux conditions d'utilisation applicables et/ou à la licence accordée par
 l'organisation qui est la source des données. En accédant et/ou en utilisant les
 données, vous acceptez de vous conformer à ces conditions d'utilisation et/ou de
-licence disponibles ici et/ou dans les métadonnées liées à ces données.  En outre, l'utilisation de PAVICS pour l'analyse et/ou l'accès aux données doit être reconnue comme décrit à l'adresse https://pavics.ouranos.ca/citation.html.
+licence disponibles ici et/ou dans les métadonnées liées à ces données.  En outre, l'utilisation de PAVICS pour l'analyse et/ou l'accès aux données doit être reconnue comme décrit à l'adresse https://pavics.ouranos.ca/citation_fr.html.
 
 OURANOS se réserve le droit de révoquer l'accès à PAVICS pour des raisons jugées abusives.
 Voici quelques exemples de comportements abusifs, sans toutefois s'y limiter :
