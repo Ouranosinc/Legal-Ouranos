@@ -38,7 +38,9 @@ on the PAVICS platform. Each dataset is subject to the applicable terms of use a
 licence granted by each organization that is the source of the data. By
 accessing and/or using the data, you agree to comply with said terms of
 use and/or licence applicable available here and/or in the metadata
-related to this data.  Furthermore, use of PAVICS for analysis, and/or access of data must be acknowledged as described at https://pavics.ouranos.ca/citation.html 
+related to this data.
+
+When utilizing PAVICS for data analysis or data access, users must acknowledge its usage as outlined in the guidelines provided at https://pavics.ouranos.ca/citation.html.
 
 OURANOS reserves the right to revoke access to PAVICS for reasons that are deemed abusive.
 Some examples of abusive behaviour could include, but not be limited to:
