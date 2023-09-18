@@ -23,9 +23,10 @@ OURANOS's relationship with you in relation to this Website. These TOS
 may be modified from time to time and such modification will be
 effective immediately upon being posted on the Website.
 
-PAVICS compute resources are offered freely with the intended purpose of supporting researchers and practitioners in climate change related fields such as:
+PAVICS compute resources are offered freely with the intended purpose of supporting
+researchers and practitioners in climate change related fields such as:
 * Climate science
-* Climate change vulnerability impacts and adaptation
+* Climate change vulnerability, impacts, and adaptation
 * Climate change mitigation
 
 #### Rights and responsibilities 
@@ -40,7 +41,8 @@ accessing and/or using the data, you agree to comply with said terms of
 use and/or licence applicable available here and/or in the metadata
 related to this data.
 
-When utilizing PAVICS for data analysis or data access, users must acknowledge its usage as outlined in the guidelines provided at https://pavics.ouranos.ca/citation.html.
+When utilizing PAVICS for data analysis or data access, users must acknowledge its usage
+as outlined in the guidelines provided at https://pavics.ouranos.ca/citation.html.
 
 OURANOS reserves the right to revoke access to PAVICS for reasons that are deemed abusive.
 Some examples of abusive behaviour could include, but not be limited to:
@@ -49,7 +51,8 @@ Some examples of abusive behaviour could include, but not be limited to:
 (or that could reasonably be expected to disrupt) other computer or network users,
 or damage or degrade performance, software or hardware components of a system.
 * Mining cryptocurrencies.
-* Distribution or sending of unsolicited or unlawful email or other messages, or promotions of any kind
+* Distribution or sending of unsolicited or unlawful email or other messages, or
+  promotions of any kind
 * Engaging in or promoting any other fraudulent, deceptive or illegal activities.
 
 **Intellectual property rights**
@@ -183,25 +186,30 @@ held within servers at OURANOS, while User Survey information is stored
 within the cloud. 
 
 I. Usage Data:
-- We retain the last three (3) months of usage data, which includes information
-  about your interactions with the platform. This data is stored on OURANOS servers.
+- We retain the last three (3) months of individual workspace usage data,
+which includes information about your interactions with the platform.
+This data is stored on OURANOS servers.
 
 II. User Workspace Data:
-- User workspace data, including any files, documents, or content created, modified,
-  or uploaded by users, is kept indefinitely. This data is stored on OURANOS servers.
+- User workspace data, including any files, documents, or content created,
+modified, or uploaded by users, is kept indefinitely.
+This data is stored on OURANOS servers.
 
 III. Survey Information:
 - Any information and metadata provided in the user survey during account creation.
-  This information is stored in the cloud indefinitely.
+This information is stored in the cloud indefinitely.
+
+IV. Aggregated Usage Statistics:
+- We also retain aggregated usage statistics on a long-term basis.
+These statistics are generated daily and include information such as server
+load and total bytes copied daily, among others. All individual-identifying
+data is removed from these aggregated statistics to ensure your privacy.
+This aggregated usage data is stored locally on OURANOS servers.
 
 We will retain the Information for as long as necessary to fulfill the purposes
-stated above or as required by law. After such time, any Information provided
-will be deleted. In certain cases, we may anonymize or aggregate the data for
-statistical or research purposes, in which case it may be retained for a
-longer period.
-
-By using our platform, you acknowledge and consent to the retention of
-your data as described above.
+stated above or as required by law. After this period, any Information provided
+will be deleted. By utilizing our platform, you explicitly acknowledge and consent
+to the data retention practices described above.
 
 **Why we collect Information**
 
@@ -209,10 +217,14 @@ The Information is collected and used notably for the following
 purposes:
 
 * To communicate with you and provide support after you have contacted us.
-* To monitor website traffic and analyze usage patterns in order to improve the performance and functionality of the platform.
-* To create and maintain user accounts, allowing you to access and utilize the features and services offered by the Platform. 
-* To ensure the continuous access and retrieval of your workspace data, including files, documents, and content created or uploaded by you. 
-* To gather information through user surveys for usage statistics and analytical purposes, helping us understand user preferences and improve our services. 
+* To monitor website traffic and analyze usage patterns in order to improve the
+  performance and functionality of the platform.
+* To create and maintain user accounts, allowing you to access and utilize the 
+  features and services offered by the Platform. 
+* To ensure the continuous access and retrieval of your workspace data,
+  including files, documents, and content created or uploaded by you. 
+* To gather information through user surveys for usage statistics and analytical
+  purposes, helping us understand user preferences and improve our services. 
 * To comply with legal obligations and regulatory requirements regarding data retention.
 
 The information is only used for the purpose that it was collected.
@@ -388,7 +400,9 @@ disponibles sur la plateforme PAVICS. Chaque ensemble de données est soumis
 aux conditions d'utilisation applicables et/ou à la licence accordée par
 l'organisation qui est la source des données. En accédant et/ou en utilisant les
 données, vous acceptez de vous conformer à ces conditions d'utilisation et/ou de
-licence disponibles ici et/ou dans les métadonnées liées à ces données.  En outre, l'utilisation de PAVICS pour l'analyse et/ou l'accès aux données doit être reconnue comme décrit à l'adresse https://pavics.ouranos.ca/citation_fr.html.
+licence disponibles ici et/ou dans les métadonnées liées à ces données.
+En outre, l'utilisation de PAVICS pour l'analyse et/ou l'accès aux données doit être
+reconnue comme décrite à l'adresse https://pavics.ouranos.ca/citation_fr.html.
 
 OURANOS se réserve le droit de révoquer l'accès à PAVICS pour des raisons jugées abusives.
 Voici quelques exemples de comportements abusifs, sans toutefois s'y limiter :
@@ -400,7 +414,8 @@ performances, les logiciels ou les composants matériels d'un système.
 * Extraction de crypto-monnaies.
 * Distribution ou envoi de courriels ou autres messages non sollicités ou illégaux,
 ou de promotions de quelque nature que ce soit.
-* S'engager dans toute autre activité frauduleuse, trompeuse ou illégale ou en faire la promotion.
+* S'engager dans toute autre activité frauduleuse, trompeuse ou illégale
+  ou en faire la promotion.
 
 **Droits de propriété intellectuelle**
 
@@ -555,15 +570,20 @@ III. Renseignements d'enquête :
 utilisateur lors de la création du compte. Ces renseignements sont
 stockés dans le cloud indéfiniment.
 
-Nous conserverons les renseignements aussi longtemps que nécessaire
-pour atteindre les objectifs mentionnés ci-dessus ou comme requis par
-la loi. Après cette période, tous les renseignements fournis seront
-supprimés. Dans certains cas, nous pouvons anonymiser ou regrouper les
-données à des fins statistiques ou de recherche, auquel cas elles peuvent
-être conservées plus longtemps.
+IV. Statistiques d'utilisation agrégées :
+- Nous conservons également des statistiques d'utilisation agrégées sur une
+base à long terme. Ces statistiques sont générées quotidiennement et comprennent
+des données telles que la charge du serveur et le total des octets copiés
+quotidiennement, entre autres. Toutes les données permettant d'identifier
+individuellement les utilisateurs sont supprimées de ces statistiques agrégées
+afin de garantir votre confidentialité. Ces données d'utilisation agrégées sont
+stockées localement sur les serveurs OURANOS.
 
-En utilisant notre plateforme, vous reconnaissez et consentez à la
-conservation de vos renseignements tels que décrits ci-dessus.
+Nous conserverons ces informations aussi longtemps que nécessaire pour remplir les
+objectifs décrits ci-dessus ou comme l'exigent les lois applicables. Après cette
+période, les informations fournies seront supprimées. En utilisant notre plateforme,
+vous reconnaissez et consentez explicitement aux pratiques de conservation des
+données décrites ci-dessus.
 
 **Raisons de la collecte des renseignements**
 
@@ -733,7 +753,7 @@ contacter l'administrateur système du site web aux coordonnées suivantes :
 
 Administration système du site web
 
-550, rue Sherbrooke Ouest, Tour Ouest, 19e étage,
+550, rue Sherbrooke ouest, Tour ouest, 19e étage,
 
 Montréal (Québec) H3A 1B9
 
